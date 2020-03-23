@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e0dae2-586b-4fa7-a323-7d27e7b8d5d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXAeT5Xdwue9zuj96OcNxDOjJX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest.mutliplicationTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="testing-java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.mutliplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="mutliplicationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.myNextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MainTest" />
+      <option name="METHOD_NAME" value="myNextTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MainTest.add" />
+      <item itemvalue="JUnit.MainTest.myNextTest" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.mutliplicationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.mutliplicationTest" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.myNextTest" />
+        <item itemvalue="JUnit.MainTest.add" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e0dae2-586b-4fa7-a323-7d27e7b8d5d6" name="Default Changelist" comment="" />
+      <created>1584975159353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584975159353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="202" width="800" height="717" key="#Intentions" timestamp="1584975398605">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" width="800" height="717" key="#Intentions/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584975398605" />
+    <state x="578" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584977794885">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977794885" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1584977241078">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977241078" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1584977241077">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.center/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977241077" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1584977241076">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.left/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977241076" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1584977241077">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.right/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977241077" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1584976372119">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584976372119" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1584976372116">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584976372116" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1584976372115">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584976372115" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1584976372117">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584976372117" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1584977265395">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977265395" />
+    <state x="544" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584975619017">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="544" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584975619017" />
+    <state x="749" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584977761339">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="749" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.1027/-116.-1057.1920.1057@0.23.1680.1027" timestamp="1584977761339" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/MainTest.java</url>
+          <line>25</line>
+          <properties class="com.company.MainTest" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MainTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
